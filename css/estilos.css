@@ -1,0 +1,14 @@
+.carousel{
+    inherits: 2000
+  }
+
+
+.carrucel{
+      margin-right: 50px;
+      margin-left: 50px;
+      }
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 800px;
+}
