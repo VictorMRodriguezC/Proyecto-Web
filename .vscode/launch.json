@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open indice.html",
-            "file": "c:\\Users\\ext_vmrodriguezc\\OneDrive - Falabella\\Escritorio\\Proyecto Web\\indice.html"
+            "file": "c:\\Users\\ext_vmrodriguezc\\OneDrive - Falabella\\Escritorio\\Proyecto Web\\index.html"
         }
     ]
 }
